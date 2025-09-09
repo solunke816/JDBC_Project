@@ -16,7 +16,7 @@ It showcases core **CRUD operations (Create, Read, Update, Delete)** along with 
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Java ,SQL
+- **Language:** Java
 - **Database:** MySQL  
 - **Libraries:** JDBC API  
 - **Tools:** Eclipse / IntelliJ IDEA, MySQL Workbench  
